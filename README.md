@@ -67,6 +67,19 @@ D -->|No| B
 | SMTP        | Email Alerts     |
 
 ---
+---
+
+## 📥 Download Model
+
+Due to GitHub file size limits, the model file is not included in this repository.
+
+👉 Download the model from here:  
+https://drive.google.com/file/d/1PzcYuw_z3TBnWw-EcAt_kng7eiAbgXoQ/view?usp=drive_link
+
+### 📌 Instructions
+1. Download the file `nm.onnx`
+2. Place it inside the project folder:
+
 
 ## 📂 Project Structure
 
